@@ -1,0 +1,1 @@
+Detect all possible browsers like: proxies, desktops, tablets, mobiles and applications (java, symbian, android). This is the best code ever, enjoy.
